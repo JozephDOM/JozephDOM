@@ -2,10 +2,10 @@
 
 
 
-## :sassy_man:  About me
-- :school: I am an student of electronic engeniering
-- :technologist:I like to learn about programming
-- :student: I’m currently learning: `IOT`.
+## :bat:  About me
+- :coffin: I am an student of electronic engeniering
+- :vampire:I like to learn about programming
+- :skull: I’m currently working with `IOT`.
 
 
 <br>
