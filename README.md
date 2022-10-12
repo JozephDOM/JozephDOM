@@ -37,7 +37,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 ## 📌 &nbsp;Projects
-I really love automation and robotics, that's my favorite tech subject. But as a matter of fact, i just love coding and create new things. Here you can see some of my projects.
+My colaborations.
 
 - IoT
   - <a href="https://github.com/Sirius-py/ceres-iot" target="_blank">Ceres</a>
