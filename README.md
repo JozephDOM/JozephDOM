@@ -2,7 +2,7 @@
 
 
 
-## :bat:  About me
+## :bat: About me
 - :coffin: I am an student of electronic engeniering
 - :vampire:I like to learn about programming
 - :skull: I’m currently working with `IOT`.
