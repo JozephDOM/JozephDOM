@@ -10,41 +10,44 @@
 
 <br>
 
-### :milky_way: Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+<p align="center">
+  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
+</p>
 
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
+
+
+
+### :milky_way: Languages 
+  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"> </code>
+  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
+
+
+
   
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  
-  
-### :shipit: Technologies
+### :wrench: Tools
+ <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"> </code>
+ <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg"> </code>
+ <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"> </code>
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
-## 📌 &nbsp;Projects
-My colaborations.
+
+### :octocat: My colaborations.
 
 - IoT
   - <a href="https://github.com/Sirius-py/ceres-iot" target="_blank">Ceres</a>
   - <a href="https://github.com/Urkdash" target="_blank">Urkdash</a>
 
 
-## My Stats
+### :foggy: My Stats
 <p>
 <a href="https://github.com/julcode">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanMz444&theme=radical&layout=compact&exclude_lang=java+r" />
