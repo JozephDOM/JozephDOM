@@ -54,8 +54,14 @@
 </a>
 </p>
 
+### :telephone_receiver: Contact
+
+* <a href="https://www.linkedin.com/in/juan-jos%C3%A9-morales-zapata-48b369254/" target="_blank">Linkedin</a>
+
 
 <!---
 JuanjoMz-Dev4/JuanjoMz-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
