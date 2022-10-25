@@ -47,12 +47,6 @@
   - <a href="https://github.com/Urkdash" target="_blank">Urkdash</a>
 
 
-### :foggy: My Stats
-<p>
-<a href="https://github.com/JuanjoMz-Dev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuanjoMz-Dev&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
 
 ### :telephone_receiver: Contact
 
