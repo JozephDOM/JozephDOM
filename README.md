@@ -50,7 +50,7 @@
 
 ### :telephone_receiver: Contact
 
-* <a href="https://www.linkedin.com/in/juan-jos%C3%A9-morales-zapata-48b369254/" target="_blank">Linkedin</a>
+* <a href="https://www.linkedin.com/in/juan-jose-morales-zapata/" target="_blank">Linkedin</a>
 
 
 <!---
