@@ -1,5 +1,5 @@
 # 💫 About Me:
-🦉I'm currently working with IoT and web development for my company "Urkdash".<br>👀 I'm looking to collaborate with other users and create a solid community.<br>👨‍💻I'm currently learning about smart contracts and web development.<br>✔️Ask me about efficient web development, IoT development and design.<br>☕Programming is my hobby; work comes second.
+🦉I'm currently working with IoT and web development for my company "Urkdash".<br>👀 I'm looking to collaborate with other users and create a solid community.<br>✔️Ask me about efficient web development, IoT development and design.<br>☕Programming is my hobby; work comes second.
 
 
 ## 🌐 Socials:
